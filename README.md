@@ -1,2 +1,2 @@
-# Copy_of_HW3.ipynb
+# Image classifying
 Using T-sne and K-means to classify cifar-100 image dataset
