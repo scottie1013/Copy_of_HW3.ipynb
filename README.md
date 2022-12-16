@@ -14,3 +14,6 @@ There will be 3 main parts:
 - Clustering with kMeans (informed by the above part)
 
 And an extra part where you can upload you image and see similar images.
+
+Final Output!
+![Unknown](https://user-images.githubusercontent.com/114832226/208183927-8936f58f-c6ec-42bd-8e42-f085f83dddfd.png)
